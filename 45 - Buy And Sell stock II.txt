@@ -68,6 +68,8 @@ price_list = []
 print(max_profit(price_list))
 
 
+Julia shared the solution and compared the solution to the interviewee:
+
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solution/
     
     
