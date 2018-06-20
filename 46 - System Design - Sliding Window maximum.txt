@@ -1,12 +1,19 @@
-grokking system design - 
+The interviewee asked to conduct system design interview, he shared the link first. 
+
 https://www.interviewbit.com/courses/system-design/
+
+Julia shared her system design prepation in the following links:
+
+1. grokking system design - 
+
 design netscape 
 
 
 https://medium.com/netflix-techblog/netflixs-viewing-data-how-we-know-where-you-are-in-house-of-cards-608dd61077da
 
-
 https://www.youtube.com/watch?v=57UK46qfBLY
+
+Discussion:
 
 CAP theorem
 most of the nosql databases are AP or CP.
@@ -18,13 +25,14 @@ Scale out vs. scale up
 ? Horizontal scaling gives you a longer runway
 
 
+More sharing from Julia:
+
 http://juliachencoding.blogspot.com/2018/06/scaling-time-series-data-storage-one.html
-
-
-
 
 https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-i-ec2b6d44ba39
 
+
+Interviewee copied some content to explain the concept, answer one of system design question:
 
 Auto Scaling via Chunking
 For the majority of members, storing their entire viewing history in a single row of compressed data resulted in good performance during the read flows. For a small percentage of members with very large viewing history, reading CompressedVH from a single row started to slow down due to similar reasons as described in the first architecture. There was a need to have an upper bound on the read and write latencies for this rare case without negatively impacting the read and write latencies for the common case.
@@ -41,7 +49,9 @@ Low consistency W is 1 and R is N
 Quorum formula
 
 
+Next section, algorithm interview: Slide window minimum
 
+problem statement:
 
 [1,2, 3, 4, 5], given an array, and also given range k value, please output range sum array. 
 
