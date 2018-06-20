@@ -1,0 +1,91 @@
+grokking system design - 
+https://www.interviewbit.com/courses/system-design/
+design netscape 
+
+
+https://medium.com/netflix-techblog/netflixs-viewing-data-how-we-know-where-you-are-in-house-of-cards-608dd61077da
+
+
+https://www.youtube.com/watch?v=57UK46qfBLY
+
+CAP theorem
+most of the nosql databases are AP or CP.
+If we want to achieve partition tolerance in relational databases, what do we do? is sharding the only way?
+sharding is partitioning
+
+Scale out vs. scale up
+? If you keep scaling up, you’ll hit a limit
+? Horizontal scaling gives you a longer runway
+
+
+http://juliachencoding.blogspot.com/2018/06/scaling-time-series-data-storage-one.html
+
+
+
+
+https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-i-ec2b6d44ba39
+
+
+Auto Scaling via Chunking
+For the majority of members, storing their entire viewing history in a single row of compressed data resulted in good performance during the read flows. For a small percentage of members with very large viewing history, reading CompressedVH from a single row started to slow down due to similar reasons as described in the first architecture. There was a need to have an upper bound on the read and write latencies for this rare case without negatively impacting the read and write latencies for the common case.
+
+To solve for this, we split the rolled up compressed data into multiple chunks if the data size is greater than a configurable threshold. These chunks are stored on different Cassandra nodes. Parallel reads and writes of these chunks results in having an upper bound on the read and write latencies even for very large viewing data.
+
+
+R+W>N where N is replication no
+R is an integer and W is an Integer
+R nodes for read query 
+W , it '' write on W nodes, otherwise fail
+High conbsistency is when W is N and R is 1
+Low consistency W is 1 and R is N
+Quorum formula
+
+
+
+
+[1,2, 3, 4, 5], given an array, and also given range k value, please output range sum array. 
+
+[4, 1, 3, 5, 6], 1 vs 4, 1 vs 3
+1,2,3
+dequeue 
+[1,2,3]
+[1,3] -. index =2, ouput 1
+[3, 5, 6], ouput 3
+
+ 7   number  8
+ 
+ deque k = 3
+  1,9,10 next number 8  order O(nk)
+  --->
+  Leetcode Leetcode 239: sliding window maximum
+  9,8
+ ascending order, it is ok
+
+the answer:[1, 2, 2]
+
+k = 3, 
+--------
+[8,6, 10]
+
+Queue fill upto k, once size ==k output the sum and remove first entry of queue and goto next element and then input to queue
+
+PriorityQueue<Integer> qu;
+int j=0;
+minsum=Integer.MAX_VALUE;
+
+for(int i=0;i<arr.length;i++)
+{
+   qu.add(arr[i])
+   
+   sum=sum+arr[i];
+  
+   if(qu.size()==k)
+   {print sum//
+    pq.peek() will be min element always
+    sum=sum-pq.remove(arr[j]);
+    j++;
+   }
+}
+
+
+time complexity: 

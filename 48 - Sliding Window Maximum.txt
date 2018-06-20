@@ -1,0 +1,79 @@
+import java.io.*;
+import java.util.*;
+
+/*
+ * To execute Java, please define "static void main" on a class
+ * named Solution.
+ *
+ * If you need more classes, simply define them inline.
+ */
+
+class Solution {
+  public static void main(String[] args) {
+    
+    List<Integer> result = problem(Arrays.asList(1,2,3,4,5));
+
+    System.out.println(result);
+    
+  }
+  
+  
+  public static List<Integer> problem(List<Integer> list){
+    
+   if (list == null || list.isEmpty() || list.size()<3)
+     return Collections.emptyList();
+    
+   List<Integer> result = new ArrayList<>();
+    
+   int sum = list.get(0) + list.get(1) + list.get(2); 
+    
+   result.add(sum); 
+    
+   for (int i=1;i<list.size() -2 ;i++){
+     
+     sum = sum - list.get(i-1);
+     sum = sum + list.get(i+2);
+     
+     result.add(sum);
+     
+   }
+    
+    return result;
+  }
+  
+  
+  
+}
+
+/*
+[1, 2,3, 4,5], integer array, given value k, k = 3
+  calculate the array with sum of range 3
+1 + 2 + 3 = 6, [1, 2, 3] -> minimum value 1
+2 + 3 + 4 = 9, minimum value 2
+range sum array: [6, 8, 12] */
+
+[1, 2,3] -> k - 1 comparison, total output array size  n - k
+(k -1 ) * (n - k) - your algorithm 
+
+[1, 3, 2, 5, 4]
+
+
+[1, 3, 2 <- 2, can I argue that first previous number 3 cannot be minimum?
+ [1, 2] <- minimum get first element in the queue
+ 1 
+ [2, 5] <- second minimum is 2 
+ [2,  4] <- 2 
+ total will be [1, 2, 2] -> O(n)
+
+[1,2,3,4,5]
+
+[1,2,3,4,5]
+
+deque  k elements
+[1, 2, 3] <- take first number
+[2,3, 4] <- take first number 2 is out
+[3, 4, 5] <- take first number 3 is out
+as long as numbers in dequeue ascending order ->
+ 
+ https://leetcode.com/problems/sliding-window-maximum/description/
+ 
