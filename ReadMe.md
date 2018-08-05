@@ -25,6 +25,10 @@ Algorithm: Sliding window minimum
 Hints given in No. 55, 56, 57 mock interviews
 http://juliachencoding.blogspot.com/2018/07/sliding-window-minimum.html
  
+July 11, 2018
+Here is the blog about my mock interview, both of interviewer and interviewee decided to show case the interview. 
+
+http://juliachencoding.blogspot.com/2018/07/90-minutes-mock-interview-sharing.html
 
 
 August 3, 2018
