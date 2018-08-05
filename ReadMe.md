@@ -25,3 +25,12 @@ Algorithm: Sliding window minimum
 Hints given in No. 55, 56, 57 mock interviews
 http://juliachencoding.blogspot.com/2018/07/sliding-window-minimum.html
  
+
+
+August 3, 2018
+
+I like to show case the mock interview, here is the blog about the interview:
+
+http://juliachencoding.blogspot.com/2018/08/tell-friend-to-tell-friend.html
+
+http://juliachencoding.blogspot.com/2018/08/google-intern-coaching-vs-microsoft.html
