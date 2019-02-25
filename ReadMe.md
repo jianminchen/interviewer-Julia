@@ -47,4 +47,30 @@ It will take me some time to review all algorithms I asked. But I like to learn 
 
 **Februray, 2019**<br>
 
-Total 9 mock interviews as an interviewer. 
+I like to work on statistics on interviews. <br>
+
+2018, month by month from January to December, [1, 12, 9, 7, 12, 13, 12, 11, 11, 14,11,14], total: 127<br>
+2019, month by month from January to December, [15, 9], total 24<br>
+
+<br>
+2019-02 February, total 9 interviews, interview dates: 6, 7, 8, 13, 14, 18, 19<br>
+2019-01 January, total 15 interviews, interview dates: 1, 2, 3, 7, 8, 10, 16, 17, 18, 21, 22, 23, 24, 30, 31<br>
+2018-12 December, total 14 interviews, interview dates: 5, 6, 7, 10, 11, 12, 13, 18, 20, 21, 24, 25, 28, 31<br>
+2018-11 November, total 11 interviews, interview dates: 1, 2, 5, 7, 8, 9, 15, 16, 19, 28, 29<br>
+2018-10 October, total 14 interviews, interview dates: 2, 3, 4, 10, 12, 15, 16, 17, 18, 23, 25, 26, 29, 30<br>
+2018-09 September, total 11 interviews, interview dates: 6, 10, 11, 12, 14, 17, 18, 20, 21, 24, 26<br>
+2018-08 August, total 11 interviews, interview dates: 2, 3, 6, 9, 10, 16, 20, 24, 29, 30, 31
+2018-07 July, total 12 interviews, interview dates: 2, 3, 4, 10, 11, 13, 16, 18, 24, 25, 30, 31<br>
+2018-06 June, total 13 interviews, interview dates: 1, 4, 5,6, 11, 12, 18, 21, 22, 25, 26, 27, 28<br>
+2018-05 May, total 12 interviews, interview dates: 1, 7, 8, 14, 16, 17, 18, 23, 24, 25, 29, 31<br> 
+2018-04 April, total 7 interviews, interview dates: 3, 4, 6, 9, 19, 23, 26<br>
+2018-03 March, total 9 interviews, interview dates: 2, 7, 9, 12, 22, 23, 27, 29, 30 <br>
+2018-02 February, total 12 interviews, interview dates: 1, 2, 5, 6, 8, 9, 14, 15, 16, 19, 26, 28 <br>
+2018-01 January, total 1 interviews, interview dates: 30
+
+2018-01-25 10:00 PM I was interviewed
+2018-01-25 11:00 PM I was interviewed
+2018-09-21 I was interviewed as interviewee. 
+
+
+
