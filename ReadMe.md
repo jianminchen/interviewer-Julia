@@ -68,22 +68,22 @@ I like to work on statistics on interviews. <br>
 2018-02 February, total 12 interviews, interview dates: 1, 2, 5, 6, 8, 9, 14, 15, 16, 19, 26, 28 <br>
 2018-01 January, total 1 interviews, interview dates: 30
 
-2018-01-25 10:00 PM I was interviewed
-2018-01-25 11:00 PM I was interviewed
-2018-09-21 I was interviewed as interviewee. 
+2018-01-25 10:00 PM I was interviewed<br>
+2018-01-25 11:00 PM I was interviewed<br>
+2018-09-21 I was interviewed as interviewee. <br>
 
-One show case:
-I documented how I worked with the interviewee to solve a hard level algorithm in less than three steps, and the interviewee showed off his strong problem solving skills to surprise me. 
+One show case:<br>
+I documented how I worked with the interviewee to solve a hard level algorithm in less than three steps, and the interviewee showed off his strong problem solving skills to surprise me. <br>
 
-Leetcode discuss: 
-https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/203070/Python-find-first-node-in-the-post-order-and-then-make-it-repeatable
-Julia's coding blog:
-http://juliachencoding.blogspot.com/2018/12/case-study-mock-interview-on-dec-7-2018.html
+Leetcode discuss: <br>
+https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/203070/Python-find-first-node-in-the-post-order-and-then-make-it-repeatable<br>
+Julia's coding blog:<br>
+http://juliachencoding.blogspot.com/2018/12/case-study-mock-interview-on-dec-7-2018.html<br>
 
-My showcases: 
-12/31/18 at 10:00 PM Talking Narwhal interviewed by Platinum Burrito on interviewing.io
-10/29/18 at 10:04 PM Lexical Lguana interviewed by Platinum Burrito on interviewing.io
-7/11/18 at 10:00 PM Laser Egg interviewed by Platinum Burrito on interviewing.io
-See project Being an interviewer - starting January 2018, over 100 interviews as interviewer on interviewing.ioSee project
-Project name
+My showcases: <br>
+12/31/18 at 10:00 PM Talking Narwhal interviewed by Platinum Burrito on interviewing.io<br>
+10/29/18 at 10:04 PM Lexical Lguana interviewed by Platinum Burrito on interviewing.io<br>
+7/11/18 at 10:00 PM Laser Egg interviewed by Platinum Burrito on interviewing.io<br>
+See project Being an interviewer - starting January 2018, over 100 interviews as interviewer on interviewing.ioSee project<br>
+
 
