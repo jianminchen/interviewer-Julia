@@ -45,3 +45,6 @@ I did work as an interviewer on interviewing.io since Jan. 2018, I have over 130
 
 It will take me some time to review all algorithms I asked. But I like to learn from my experience. 
 
+**Februray, 2019**<br>
+
+Total 9 mock interviews as an interviewer. 
