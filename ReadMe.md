@@ -72,5 +72,18 @@ I like to work on statistics on interviews. <br>
 2018-01-25 11:00 PM I was interviewed
 2018-09-21 I was interviewed as interviewee. 
 
+One show case:
+I documented how I worked with the interviewee to solve a hard level algorithm in less than three steps, and the interviewee showed off his strong problem solving skills to surprise me. 
 
+Leetcode discuss: 
+https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/203070/Python-find-first-node-in-the-post-order-and-then-make-it-repeatable
+Julia's coding blog:
+http://juliachencoding.blogspot.com/2018/12/case-study-mock-interview-on-dec-7-2018.html
+
+My showcases: 
+12/31/18 at 10:00 PM Talking Narwhal interviewed by Platinum Burrito on interviewing.io
+10/29/18 at 10:04 PM Lexical Lguana interviewed by Platinum Burrito on interviewing.io
+7/11/18 at 10:00 PM Laser Egg interviewed by Platinum Burrito on interviewing.io
+See project Being an interviewer - starting January 2018, over 100 interviews as interviewer on interviewing.ioSee project
+Project name
 
