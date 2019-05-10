@@ -85,6 +85,8 @@ My showcases: <br>
 10/29/18 at 10:04 PM Lexical Lguana interviewed by Platinum Burrito on interviewing.io<br>
 7/11/18 at 10:00 PM Laser Egg interviewed by Platinum Burrito on interviewing.io<br>
 5/9/19 at 10:00 PM Massively Parallel Goose interviewed by Platinum Burrito on interviewing.io<br>
-See project Being an interviewer - starting January 2018, over 150 interviews as interviewer on interviewing.io See project<br>
+<br>
+**Total interviews**<br>
+Being an interviewer - starting January 2018, over 150 interviews as interviewer on interviewing.io <br>
 
 
